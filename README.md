@@ -1,2 +1,3 @@
 # space-payload-tracker
-Follow the different space companies launching stuff into space. 
+
+Track the payloads launched into low earth orbit, and the companies that launched them.
