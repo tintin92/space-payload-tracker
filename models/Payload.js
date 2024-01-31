@@ -1,11 +1,12 @@
 const mongoose = require("mongoose");
 
 const PayloadSchema = mongoose.Schema({
+    company: String,
     name: String,
     description: String,
     weight: Number,
-    company: String,
     country: String,
+    launchLation: String,
     launchDate: Date,
 });
 
